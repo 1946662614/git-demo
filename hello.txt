@@ -1,6 +1,6 @@
 hello Git! 22222
 hello Git!
-hello Git!3333333333333:3
+hello Git! 33333
 hello Git!
 hello Git!
 hello Git!
@@ -17,5 +17,5 @@ hello Git!
 hello Git!
 hello Git!
 hello Git!
-hello Git!
+hello Git! master text
 hello Git!
